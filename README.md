@@ -1,6 +1,6 @@
 # InnoNotebooks
 A set of notebooks to investigate the SDG approach on the TIP platform:
-- exzract_sdg.ipynb: the list of SDGs wiht some cleanup. It is asave as a pickle dataframe
+- extract_sdg.ipynb: the list of SDGs wiht some cleanup. It is a save as a pickle dataframe
 - patent_extract_analyis: this notebook has the purpose to analyse the xtraction of interesting data from the patents, especially the background and the technical field. Different algorithms are tested and the result can vizualised and checked.
 - Search.ipnyb: this is juste an interface with the OVH server and the embedding and search code runnning on it.Basically, ssh commands.
 - Process_results: the data are loaded from the OVH server and vizualized and compared. The purpose is both to create a test set for the classification algorithm and to test it.
